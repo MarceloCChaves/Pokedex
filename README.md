@@ -1,2 +1,2 @@
 # Pokedex
-A project created with Pokeapi using javascript
+Project created with Pokeapi using javascript
