@@ -10,7 +10,6 @@
 body {
   background: url(../assets/images/background.png);
   background-size: cover;
-  position: relative;
   height: 100vh;
   font-family: "Lato";
 }
