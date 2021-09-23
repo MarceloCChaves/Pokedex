@@ -16,6 +16,9 @@ Project created with <a href="https://pokeapi.co/">Pokeapi</a> using javascript
  - Abra o terminal da sua ide
  - Digite: git clone https://github.com/MarceloCChaves/Pokedex.git
 
+# Acesse a pokedex
+<a href="https://coolestpokedex.netlify.app/">Clique aqui</a>
+
 # Autor
 ---
 
